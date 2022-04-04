@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fire
+  - Key
+  - Door
+  - Card
+  - Enemy
+  - PlayArea
+  - HandArea
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Sprite
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 246376091
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Interface
+    uniqueID: 1552263305
+    locked: 0
+  - name: Card
+    uniqueID: 2826818683
+    locked: 0
+  - name: Red
+    uniqueID: 837614857
+    locked: 0
